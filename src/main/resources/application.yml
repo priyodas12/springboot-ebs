@@ -2,3 +2,5 @@ spring:
   application:
     name: springboot-ebs-cicd
 
+server:
+  port: 5000
